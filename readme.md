@@ -286,7 +286,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 
 ## 微信公众号
 
-| 微信公众号 (排名不分先后) | 公众号 ID       | 二维码                                                                                                                                                                      |
+| 微信公众号 (排名不分先后) | 公众号的 ID       | 二维码                                                                                                                                                                      |
 | ------------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Go 中国                   | golangchina     | ![Go 中国](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MjM5OTcxMzE0MQ==&mid=2653369919&idx=1&sn=7cf1deca13da16a8cd4ba4ecd8ceba8c&send_time=)           |
 | Go 语言中文网             | studygolang     |
